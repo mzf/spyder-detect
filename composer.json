@@ -1,0 +1,9 @@
+{
+    "name": "web777/spyder-detect",
+    "type": "library",
+    "description": "Search Engined Spyder Detect Library",
+    "keywords": ["bot", "spyder", "search engine"],
+    "autoload": {
+        "psr-0": { "SpyderDetect": "" }
+    }
+}

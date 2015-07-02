@@ -1,11 +1,10 @@
 <?php
-
 /**
  * Description of Spyder_Detect
  *
- * @author WebDev
+ * @author web777
  */
-class Spyder_Detect
+class SpyderDetect
 {
 
     protected static $searchBots = [
