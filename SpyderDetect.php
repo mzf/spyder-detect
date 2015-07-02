@@ -46,7 +46,7 @@ class SpyderDetect
         $this->user_agent = $user_agent;
     }
 
-    public function isBot()
+    static public function isBot()
     {
         foreach (static::$searchBots as $bot => $marker) {
             if (strpos(strtoupper($this->user_agent), strtoupper($marker)) !== false) {
