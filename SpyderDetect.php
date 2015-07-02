@@ -10,7 +10,7 @@ class SpyderDetect
 
     protected static $searchBots = [
         'Google' => 'GoogleBot',
-        'YandexBot' => 'YandexBot',
+        'Yandex' => 'YandexBot',
         'YandexImages' => 'YandexImages',
         'YandexMedia' => 'YandexMedia',
         'YandexBlogs' => 'YandexBlogs',
